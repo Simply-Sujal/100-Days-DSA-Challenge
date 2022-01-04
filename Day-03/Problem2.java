@@ -1,4 +1,4 @@
-
+--------------Imporatant--------------
 // 2) Program to find the frequency of each element of an array 
 
 public class Problem2 {
